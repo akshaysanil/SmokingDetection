@@ -1,5 +1,7 @@
 
 # Smoking Detection /YOLOv5
+
+This project appears to be using YOLOv5, a real-time object detection algorithm, to detect number plates in images or video streams. The project is likely using pre-trained models and customizing them for the specific task of detecting number plates. Once the number plates have been identified, the project is probably using image processing techniques to extract the numbers from the detected plates. Overall, the goal of the project is likely to automate the process of detecting and extracting license plate numbers from images or video.
  
 
 ![image](https://user-images.githubusercontent.com/104578088/206428328-0bf8599b-9ad9-4f56-8029-302aa66406b1.png)
@@ -20,10 +22,7 @@ First we need to clone official-yolov5 repo, the link is in below
 
 ![image](https://user-images.githubusercontent.com/104578088/215264072-611235e5-9d4a-4bec-b296-7aab39710f88.png)
 
- 
-## predictions (Sample)
-![smk3](https://user-images.githubusercontent.com/104578088/215264122-f3b9791e-c12c-4486-bf4d-5fcf30f6ae44.jpeg)
-![smoking5](https://user-images.githubusercontent.com/104578088/215264143-95f966ce-6b58-4349-9a8b-07221c380be7.jpg)
+
 
 
 
