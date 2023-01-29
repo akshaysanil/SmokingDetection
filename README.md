@@ -7,7 +7,6 @@ This project appears to be using YOLOv5, a real-time object detection algorithm,
 ![image](https://user-images.githubusercontent.com/104578088/206428328-0bf8599b-9ad9-4f56-8029-302aa66406b1.png)
 
 
-The project is a deep learning-based system for detecting smokers in real-time video streams. It utilizes YOLOv5, a state-of-the-art object detection algorithm, for accurately identifying smokers in the video frames. The implementation of the project also makes use of the OpenCV library for real-time video processing. The system is able to detect smokers with good accuracy in real-time, making it a useful tool for monitoring smoking in public spaces.
 
 
 First we need to clone official-yolov5 repo, the link is in below
